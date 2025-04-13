@@ -26,3 +26,11 @@ Les ressources évoquées durant le talk et plus encore.
 - [Zalando](https://opensource.zalando.com/tech-radar/)
 - [Script de génération du tech radar de Zalando](https://github.com/zalando/tech-radar)
 - [Tech radar en React](https://github.com/omerg/react-tech-radar)
+
+### Mise en place
+
+- [Episode PunkinDev - Migrer un monolithe vers du microservice](https://podcast.ausha.co/punkindev/s04e04-migrer-un-monoltihe-vers-du-microservice-avec-frederic-bouvet)
+
+### Après la décision
+
+- [Decision records](https://github.com/joelparkerhenderson/decision-record)
